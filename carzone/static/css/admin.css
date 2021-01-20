@@ -1,0 +1,39 @@
+
+
+#header {
+    background-color:#fff !important;
+    color:black !important;
+}
+
+a:link, a:visited{
+    color: black !important;
+
+}
+
+.module h2, .module caption, .inline-group h2{
+    color:#f0151f !important;
+    background: #f0151f;
+
+}
+
+div.breadcrumbs {
+    background:  white !important;
+    color:#fff;
+    
+}
+
+#header a:link, #header a:visited{
+    color: black !important;
+}
+
+.button.default, input[type=submit].default, .submit-row input.default{
+    background: black !important;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button{
+    background: white !important;
+}
+
+#toolbar form input[type="submit"]{
+    color: aliceblue;
+}
